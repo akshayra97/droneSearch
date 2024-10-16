@@ -1,0 +1,2 @@
+/home/akshayra/Documents/Projects/droneSearch/build/CMakeFiles/edit_cache.dir
+/home/akshayra/Documents/Projects/droneSearch/build/CMakeFiles/rebuild_cache.dir

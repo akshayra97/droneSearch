@@ -1,0 +1,19 @@
+{
+    "configurations": [
+      {
+        "name": "ROS2",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/opt/ros/humble/include/**",        // Path to ROS2 core headers
+          "/home/akshayra/ros2_ws/src/IsaacSim-ros_workspaces/humble_ws/install/**"  // Path to your workspace headers
+        ],
+        "defines": [],
+        "compilerPath": "/usr/bin/gcc",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "linux-gcc-x64"
+      }
+    ],
+    "version": 4
+  }
+  
